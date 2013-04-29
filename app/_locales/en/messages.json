@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Open Extensions Page",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Simple button to open the Chrome Extensions Page",
+    "description": "The description of the application"
+  },
+  "appIconTooltip": {
+	  "message": "Open Extensions Page",
+	  "description": "The tooltip for the browser action icon"
+  }
+}
