@@ -2,12 +2,14 @@
 
 Simple button to open the Chrome Extensions Page
 
-## On Chrome Web Store
+![OpenExtensionsPage](https://lh6.googleusercontent.com/cGWczhOHpYbZwtiKvgRCC3GsK3GUST4gieOj4GyItUzPdoVhEXCW0LOgo3Nka-MliqMA7QUtDw=s640-h400-e365-rw)
 
-	https://chrome.google.com/webstore/detail/open-extensions-page/canemmfamfcpaklodegacogijjenhkjb
+## Get It On The Chrome Web Store
+
+https://chrome.google.com/webstore/detail/open-extensions-page/canemmfamfcpaklodegacogijjenhkjb
 
 ## Author
 
-@pbojinov - petarbojinov@gmail.com
+@pbojinov
 
 
